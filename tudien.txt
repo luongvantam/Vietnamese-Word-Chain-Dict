@@ -26,7 +26,6 @@ a mam
 a men
 a mi
 a min
-a mrơn
 a míp
 a măng
 a ngo
@@ -293,7 +292,6 @@ ao ảo
 au au
 au xơ
 ay áy
-ayun pa
 ba ba
 ba bê
 ba bích
@@ -543,7 +541,6 @@ bao vây
 bao xa
 bao xiết
 bao đồng
-bari ôxit
 bay biến
 bay buộc
 bay bướm
@@ -924,19 +921,6 @@ biệt đãi
 biệt đội
 biệt động
 biệt ứng
-blu dông
-blốc bếp
-blốc chết
-blốc cổng
-blốc gạch
-blốc lớn
-blốc móng
-blốc neo
-blốc nhỏ
-blốc rỗng
-blốc tường
-blốc đặc
-blốc đế
 bo bo
 bo bíu
 bo mạch
@@ -952,11 +936,8 @@ bom bê
 bom bướm
 bom cháy
 bom chìm
-bom h
-bom hiđrô
 bom hàng
 bom lửa
-bom napalm
 bom phóng
 bom thư
 bom tấn
@@ -977,7 +958,6 @@ bong gân
 bong vụ
 boong boong
 boong ke
-boy trap
 boóc tê
 boóc đô
 bu gi
@@ -2586,7 +2566,6 @@ bùng nổ
 bùng nợ
 bùng phát
 bùng sáng
-bú cặc
 bú dích
 bú dù
 bú mớm
@@ -3558,7 +3537,6 @@ bậu cửa
 bậu tường
 bậu xậu
 bậy bạ
-bậy nà!
 bắc an
 bắc bình
 bắc bậc
@@ -4677,7 +4655,6 @@ bợt bạt
 bợt chợt
 bụ bẫm
 bụ sữa
-bụ địt
 bục mình
 bục đuột
 bụi bậm
@@ -5227,11 +5204,10 @@ chanh đào
 chao chát
 chao liệng
 chao ôi
-chao ôi!
 chao đèn
 chao đảo
 chao động
-chao ơi!
+chao ơi
 chao ươm
 chat bot
 chau mày
@@ -6946,7 +6922,6 @@ chơ rai
 chơ ro
 chơ ru
 chơ vơ
-chơi bowling
 chơi bài
 chơi bóng
 chơi bời
@@ -6972,7 +6947,6 @@ chơi phiếm
 chơi rong
 chơi rông
 chơi rừng
-chơi team
 chơi trèo
 chơi trượt
 chơi trội
@@ -7567,7 +7541,6 @@ chếch mác
 chếch mếch
 chếnh choáng
 chết cha
-chết cha!
 chết chém
 chết chìm
 chết chóc
@@ -7608,7 +7581,7 @@ chết nỗi
 chết oan
 chết rũ
 chết rấp
-chết rồi!
+chết rồi
 chết sống
 chết sớm
 chết thiêu
@@ -8187,7 +8160,6 @@ chửa trâu
 chửa trứng
 chửi bới
 chửi chữ
-chửi lồn
 chửi lộn
 chửi mắng
 chửi nhau
@@ -8251,12 +8223,6 @@ chững chạc
 chực chờ
 chực hờ
 chực tiết
-cla vét
-clanh ke
-cli sê
-clin ke
-clo rua
-clo rát
 co ban
 co bóp
 co cóp
@@ -8312,11 +8278,9 @@ com mi
 com măng
 com mốt
 com pa
-com plê
 com pô
 com pắc
 com rom
-commăng ca
 con buôn
 con bà
 con bài
@@ -8483,9 +8447,6 @@ cong đuôi
 cour đăng
 coóc nê
 coóc xê
-cra vát
-crô mít
-crôm hóa
 cu cu
 cu cũ
 cu cườm
@@ -9171,7 +9132,6 @@ cát bá
 cát bối
 cát bụi
 cát chánh
-cát crôm
 cát cánh
 cát cút
 cát căn
@@ -9243,7 +9203,7 @@ câm lặng
 câm miệng
 câm mồm
 câm nín
-câm đi!
+câm đi
 cân bàn
 cân bằng
 cân chìm
@@ -11265,9 +11225,6 @@ cẳn nhẳn
 cẳng chân
 cẳng giò
 cẳng tay
-cặc bò
-cặc bần
-cặc heo
 cặm cụi
 cặn bã
 cặn kẽ
@@ -13308,7 +13265,6 @@ dại khờ
 dại mặt
 dại người
 dại trai
-dại3 (bệnh)
 dạm hỏi
 dạm mặt
 dạm ngõ
@@ -13431,7 +13387,6 @@ dầu chăng
 dầu chổi
 dầu cá
 dầu cốc
-dầu diesel
 dầu dãi
 dầu dầu
 dầu dọc
@@ -13627,7 +13582,6 @@ dẹp đường
 dẹt lét
 dẹt đét
 dẻ gai
-dẻ mlem
 dẻ sườn
 dẻo chân
 dẻo dai
@@ -13995,7 +13949,6 @@ e nề
 e nể
 e nữa
 e rằng
-e ste
 e sợ
 e te
 e thay
@@ -14036,8 +13989,6 @@ eo óc
 eo ôi
 eo đất
 eo ếch
-filê kép
-filê phụ
 ga la
 ga len
 ga li
@@ -14563,8 +14514,6 @@ giàu nghèo
 giàu sang
 giàu sụ
 giày ban
-giày bata
-giày batket
 giày búp
 giày bệt
 giày bốt
@@ -14938,7 +14887,6 @@ giả kim
 giả lơ
 giả lả
 giả lời
-giả metric
 giả miếng
 giả mạo
 giả ngơ
@@ -15414,10 +15362,7 @@ giới đàn
 giờ chót
 giờ chơi
 giờ chết
-giờ g
-giờ g.m.t
 giờ giấc
-giờ gmt
 giờ học
 giờ hồn
 giờ khắc
@@ -15484,12 +15429,6 @@ giữa trời
 giữa vời
 giữa đời
 giựt bủn
-glamping cắm
-glass blốc
-glu cô
-glu xit
-glu xít
-glô côm
 go pờ
 go tích
 gom góp
@@ -15505,7 +15444,6 @@ goòng máy
 gra nít
 gra phít
 gra tuýt
-grafit tấm
 gu giông
 gu sì
 gu đrông
@@ -16095,7 +16033,6 @@ gối xếp
 gối ôm
 gối điệp
 gối đầu
-gốm este
 gồ ghề
 gồm có
 gồng gánh
@@ -16342,7 +16279,7 @@ hao tài
 hao tổn
 hau háu
 hay biết
-hay chưa!
+hay chưa
 hay chữ
 hay dở
 hay hay
@@ -16381,7 +16318,6 @@ heo trắng
 heo vàng
 heo vòi
 heo đen
-herb garden
 hi hi
 hi hí
 hi hóp
@@ -16392,8 +16328,6 @@ hi sinh
 hi thiêm
 hi tiên
 hi vọng
-hi đrát
-hi đrô
 him him
 him híp
 hinh hích
@@ -17110,7 +17044,6 @@ hoặc chúng
 hoặc giả
 hoặc là
 hoặn lớn
-hu blông
 hu hu
 hui hút
 hum húp
@@ -18397,8 +18330,6 @@ hạo hực
 hạo nhiên
 hạp long
 hạp ấn
-hạt alpha
-hạt beta
 hạt bí
 hạt châu
 hạt cơm
@@ -19019,6 +18950,7 @@ hồ đậu
 hồ đồ
 hồ đồng
 hồi bái
+hồi chiêu
 hồi chuyển
 hồi công
 hồi cư
@@ -19596,7 +19528,6 @@ keo sơn
 keo tơ
 keo xương
 keo xỉn
-keto eat
 kha khá
 khai báo
 khai bút
@@ -19789,8 +19720,6 @@ khiếu tố
 khiển hứng
 khiển muộn
 khiển trách
-khlá phlạo
-khmer krôm
 kho báu
 kho bãi
 kho bạc
@@ -19866,8 +19795,10 @@ khoan thai
 khoan thứ
 khoan đã
 khoan đãi
+khoang chứa
 khoang cổ
 khoang hốc
+khoang lưu
 khoang nhạc
 khoanh bí
 khoanh nợ
@@ -19879,8 +19810,6 @@ khoe hàng
 khoe khoang
 khoe khỏe
 khoe mẽ
-khoe? khoắn
-khoe? mạnh
 khoen khoen
 khoen khoén
 khoen mắt
@@ -20206,7 +20135,6 @@ khán pháp
 khán phòng
 khán thủ
 khán đài
-kháng (tiếng)
 kháng bung
 kháng chiến
 kháng cáo
@@ -20433,7 +20361,6 @@ khóa sinh
 khóa sổ
 khóa tay
 khóa trình
-khóa êcle
 khóc lân
 khóc lóc
 khóc măng
@@ -20497,7 +20424,6 @@ khôn hàn
 khôn hồn
 khôn khéo
 khôn khôn
-khôn khôn!
 khôn lanh
 khôn lõi
 khôn lường
@@ -20663,7 +20589,6 @@ khơi nguồn
 khơi sâu
 khơi thông
 khơi xa
-khơme (tiếng)
 khư khư
 khươm năm
 khương thang
@@ -21018,8 +20943,6 @@ ki nin
 ki ốt
 kia kìa
 kia mà
-kilooat giờ
-kilowatt giờ
 kim anh
 kim băng
 kim bảng
@@ -21086,7 +21009,6 @@ kim đơn
 kim đồng
 kim ốc
 kin kít
-kinh (tiếng)
 kinh bổn
 kinh chiều
 kinh châu
@@ -22410,10 +22332,6 @@ loe loét
 loe toe
 loe xoe
 loen loét
-logic học
-logic mạch
-logic toán
-logistics kho
 loi choi
 loi ngoi
 loi nhoi
@@ -22902,7 +22820,6 @@ lành lặn
 lành mạnh
 lành nghề
 lành ngạnh
-lành staycation
 lành tranh
 lành tính
 lành tỉnh
@@ -23899,7 +23816,6 @@ lướt qua
 lướt sóng
 lướt thướt
 lướt ván
-lướt web
 lướu đướu
 lười biếng
 lười lĩnh
@@ -24577,7 +24493,6 @@ lệt xệt
 lỉnh kỉnh
 lỉnh nghỉnh
 lị sở
-lịch blốc
 lịch bịch
 lịch chữa
 lịch duyệt
@@ -24685,7 +24600,6 @@ lồm cồm
 lồm lộp
 lồm ngồm
 lồm xồm
-lồn lột
 lồng bàn
 lồng bè
 lồng bồng
@@ -24723,9 +24637,6 @@ lỗ hổng
 lỗ hở
 lỗ khoan
 lỗ khí
-lỗ lã
-lỗ lãi
-lỗ lồn
 lỗ mãng
 lỗ mũi
 lỗ mỗ
@@ -25147,8 +25058,6 @@ lựu pháo
 lựu đạn
 lựu đỏ
 lỵ sở
-m 48
-m 72
 ma bùn
 ma cao
 ma chay
@@ -25455,8 +25364,6 @@ miệng đời
 miệt mài
 miệt thị
 miệt vườn
-mlem chill
-mlem mlem
 mo cau
 mo nang
 mo ran
@@ -25469,7 +25376,6 @@ moi ruột
 moi óc
 mol gam
 mon men
-money order
 mong chờ
 mong manh
 mong muốn
@@ -26042,7 +25948,6 @@ mê ám
 mê đạo
 mê đắm
 mê đồ
-mêga electronvôn
 mên mến
 mênh mang
 mênh mông
@@ -26553,7 +26458,6 @@ mượn hồn
 mượn mõ
 mượn tiếng
 mượt mà
-mạ crom
 mạ kẽm
 mạ ngồi
 mạ non
@@ -31040,14 +30944,12 @@ nào ngờ
 nào phải
 nào đâu
 nào đó
-nào... nấy
 này em
 này khác
 này kia
 này nhé
 này này
 này nọ
-ná miẻo
 ná thun
 nái sề
 nái sữa
@@ -31593,7 +31495,6 @@ nước hai
 nước hoa
 nước hàng
 nước hãm
-nước javel
 nước khoáng
 nước kiệu
 nước loạn
@@ -32245,7 +32146,6 @@ nức danh
 nức lòng
 nức nở
 nức tiếng
-nứng cặc
 nứt bụng
 nứt mắt
 nứt nanh
@@ -32373,7 +32273,6 @@ oanh liệt
 oanh oách
 oanh tạc
 oanh yến
-ocrơ urani
 oe con
 oe oe
 oe oé
@@ -32414,7 +32313,6 @@ ong đất
 ong đực
 ong ọc
 oong đơ
-orăng glai
 oxy già
 oxy hoá
 oàm oạp
@@ -32441,7 +32339,6 @@ oé oẹ
 oóc gan
 oóc giơ
 oăn oại
-oăng oẳnc
 oăng oẳng
 oải hương
 oắt con
@@ -32473,11 +32370,6 @@ paulus của
 pec chưng
 pec lợp
 pec nhớt
-peclit cầu
-peclit hạt
-peclit nở
-peclit tấm
-peclit xốp
 pen xơ
 pha bóng
 pha chuẩn
@@ -33632,10 +33524,8 @@ phải bã
 phải bả
 phải chi
 phải chăng
-phải chăng2
 phải cách
 phải cái
-phải duyên
 phải dấu
 phải giá
 phải gió
@@ -33656,7 +33546,6 @@ phải như
 phải phép
 phải quấy
 phải rồi
-phải rồi!
 phải tay
 phải thì
 phải thời
@@ -34146,20 +34035,12 @@ pi lốt
 pi nhê
 pi pét
 pi rít
-pilates thiền
 pin khô
 pin sạc
 pin tiểu
 ping pong
 ping pông
 pinh pông
-pittông kép
-pla sma
-pla tin
-plas tích
-plát ma
-plát tích
-plăng sê
 poa nha
 poa nhê
 pom mát
@@ -34219,7 +34100,6 @@ pờ ra
 pờ rét
 pờ rít
 pờ rồ
-qr code
 qua chuyện
 qua cầu
 qua giáp
@@ -34385,7 +34265,6 @@ quang tử
 quang vinh
 quang yên
 quang âm
-quang đetectơ
 quang điện
 quang đãng
 quang độ
@@ -34908,7 +34787,6 @@ quý hóa
 quý hồ
 quý khách
 quý mến
-quý mến:
 quý nhân
 quý phi
 quý phái
@@ -35186,7 +35064,6 @@ quần hệ
 quần hồng
 quần hội
 quần hợp
-quần jean
 quần kaki
 quần liền
 quần lót
@@ -35526,15 +35403,11 @@ ra bộ
 ra chiều
 ra chơi
 ra chừng
-ra clay
 ra công
 ra da
 ra dáng
 ra dấu
 ra giêng
-ra glai
-ra glây
-ra glăng
 ra gu
 ra gì
 ra hiệu
@@ -35598,9 +35471,6 @@ ra đường
 ra đề
 ra đời
 ra ơn
-radio casset
-radio cassette
-radio số
 ram cao
 ram rám
 ram ráp
@@ -36002,6 +35872,7 @@ róc xương
 róc đời
 rón rén
 rón rón
+rót rượu
 rô bốt
 rô léc
 rô manh
@@ -36066,7 +35937,6 @@ rút chạy
 rút cuộc
 rút cục
 rút gân
-rút gân.
 rút gọn
 rút kinh
 rút lui
@@ -36655,6 +36525,7 @@ sa trùng
 sa trường
 sa tắc
 sa van
+sa vĩ
 sa đoạ
 sa đà
 sa đéc
@@ -37104,10 +36975,6 @@ soạn giả
 soạn sửa
 soạn thảo
 soạn đồ
-spin nguyên
-sta to
-strích nin
-stác te
 su ba
 su hào
 su le
@@ -37567,7 +37434,6 @@ sãi vãi
 sãi đò
 sè sè
 sè sẽ
-sét ocrơ
 sét ti
 sét đánh
 sê kô
@@ -37835,7 +37701,6 @@ sĩ tử
 sơ bộ
 sơ chung
 sơ chế
-sơ chế.
 sơ cua
 sơ cơm
 sơ cảo
@@ -37911,7 +37776,6 @@ sơn dã
 sơn dương
 sơn dầu
 sơn giang
-sơn grafit
 sơn hiệp
 sơn hoà
 sơn hà
@@ -38602,8 +38466,6 @@ sợi xoắn
 sợi đèn
 sụ đá
 sục bùn
-sục cu
-sục cặc
 sục khí
 sục sôi
 sục sạo
@@ -39007,7 +38869,6 @@ teng beng
 teo cơ
 teo da
 teo tóp
-tetrot kép
 tha bổng
 tha chết
 tha giác
@@ -40202,7 +40063,6 @@ thành bại
 thành bộ
 thành chung
 thành công
-thành công.
 thành danh
 thành gia
 thành hoà
@@ -40922,8 +40782,6 @@ thúc thủ
 thúc tử
 thúc ép
 thúc đẩy
-thúi (
-thúi địt
 thúng mủng
 thúng thắng
 thút gút
@@ -41467,7 +41325,6 @@ thản nhiên
 thảng hoặc
 thảng thốt
 thảnh thơi
-thảo (cây)
 thảo am
 thảo dân
 thảo dã
@@ -43073,12 +42930,8 @@ tiến đông
 tiến độ
 tiến động
 tiến đức
-tiếng albani
 tiếng anh
-tiếng armenia
-tiếng bulgari
 tiếng bung
-tiếng bungari
 tiếng cười
 tiếng dội
 tiếng dữ
@@ -43121,7 +42974,6 @@ tiếng vang
 tiếng việt
 tiếng vọng
 tiếng xấu
-tiếng yiddish
 tiếng ý
 tiếng đàn
 tiếng đế
@@ -43219,6 +43071,7 @@ tiết ước
 tiếu gõ
 tiếu lâm
 tiếu mạ
+tiếu đàm
 tiềm giác
 tiềm kích
 tiềm lực
@@ -43613,8 +43466,6 @@ toả cảng
 toả nhiệt
 toả sáng
 toả tình
-tr' hy
-tr. cn
 tra côm
 tra của
 tra cứu
@@ -43792,7 +43643,6 @@ trinh tiết
 trinh trắng
 triêu dương
 triêu mộ
-triến (đph)
 triết gia
 triết học
 triết lí
@@ -43931,7 +43781,6 @@ trung chính
 trung chải
 trung cáo
 trung cảnh
-trung cảnh<i>
 trung cấp
 trung cầu
 trung cổ
@@ -44643,7 +44492,6 @@ trùng xoắn
 trùng xá
 trùng điệp
 trùng đài
-trùng địt
 trú binh
 trú chân
 trú dân
@@ -44881,9 +44729,7 @@ trường tiểu
 trường trai
 trường trung
 trường tây
-trường tôpô
 trường tồn
-trường tồn.
 trường vốn
 trường xuân
 trường yên
@@ -46273,7 +46119,6 @@ táo tác
 táo tây
 táo tợn
 táo đỏ
-táp blô
 táp lét
 táp lô
 táp nham
@@ -48402,6 +48247,7 @@ tột vời
 tột điểm
 tột đỉnh
 tột độ
+tớ cậu
 tớ thầy
 tới bến
 tới cùng
@@ -49187,11 +49033,6 @@ vi vút
 vi xcô
 vi ước
 vi ảnh
-video casset
-video cassette
-video clip
-view cày
-villa biệt
 vinh an
 vinh cướng
 vinh danh
@@ -49366,7 +49207,6 @@ việt xuyên
 việt yên
 việt đoàn
 việt đông
-vlog podcast
 vo gạo
 vo ngại
 vo troốc
@@ -49379,9 +49219,6 @@ voi bào
 voi giày
 voi nan
 voi đú
-voice chat
-voice mail
-volt kế
 von kế
 von vót
 vong bản
@@ -49716,8 +49553,6 @@ vây vo
 vây vẫy
 vây ép
 vã thuốc
-vãi cứt
-vãi lồn
 vãn anh
 vãn ca
 vãn cảnh
@@ -50066,7 +49901,6 @@ vùng đất
 vùng đệm
 vùng đỏ
 vú bò
-vú bò.
 vú bõ
 vú bầu
 vú em
@@ -50225,7 +50059,6 @@ vĩnh châu
 vĩnh chấp
 vĩnh công
 vĩnh cửu
-vĩnh cửu.
 vĩnh cữu
 vĩnh gia
 vĩnh giang
@@ -51300,7 +51133,6 @@ xem nết
 xem phim
 xem quẻ
 xem ra
-xem show
 xem số
 xem tay
 xem thường
@@ -52261,7 +52093,6 @@ xả hơi
 xả kỉ
 xả láng
 xả lũ
-xả stress
 xả súng
 xả thân
 xả đông
@@ -52413,7 +52244,6 @@ xờ xạc
 xờm xờm
 xởi lởi
 xụ mặt
-xục cặc
 xục rục
 xụi lơ
 xủng xoảng
@@ -52508,7 +52338,6 @@ y đạo
 y đức
 ya hội
 ya ma
-ya xier
 yang bắc
 yang mao
 yang nam
@@ -53963,7 +53792,6 @@ zơ rá
 đeo đai
 đeo đuổi
 đeo đẳng
-đetectơ xung
 đi biệt
 đi buôn
 đi bão
@@ -54695,8 +54523,6 @@ zơ rá
 đày đoạ
 đày đọa
 đày ải
-đá balat
-đá ballast
 đá banh
 đá bóng
 đá bảng
@@ -54714,12 +54540,8 @@ zơ rá
 đá hậu
 đá hộc
 đá kì
-đá lat
-đá liếc
 đá lát
 đá lửa
-đá macma
-đá magma
 đá mài
 đá màu
 đá móc
@@ -56021,7 +55843,6 @@ zơ rá
 đạo cụ
 đạo diễn
 đạo giáo
-đạo hindu
 đạo hiếu
 đạo hiệu
 đạo hoả
@@ -56030,9 +55851,7 @@ zơ rá
 đạo hằng
 đạo hồi
 đạo hữu
-đạo islam
 đạo khổng
-đạo kitô
 đạo luật
 đạo lão
 đạo lí
@@ -56130,7 +55949,6 @@ zơ rá
 đảo nợ
 đảo phách
 đảo quốc
-đảo spin
 đảo trưởng
 đảo vũ
 đảo điên
@@ -56157,7 +55975,6 @@ zơ rá
 đất hoang
 đất hứa
 đất khách
-đất laterit
 đất liền
 đất màu
 đất mùn
@@ -56857,7 +56674,6 @@ zơ rá
 địa liền
 địa long
 địa lí
-địa lí'
 địa lôi
 địa lý
 địa lũy
@@ -56963,7 +56779,6 @@ zơ rá
 định đỉnh
 định ước
 định ảnh
-địt mẹ
 đọ cánh
 đọ gươm
 đọ sức
@@ -57522,14 +57337,12 @@ zơ rá
 độ chín
 độ chụm
 độ chừng
-độ clo
 độ dài
 độ dốc
 độ hồn
 độ không
 độ khẩu
 độ kinh
-độ kinh<sup>o
 độ kiềm
 độ lượng
 độ lệch
@@ -57561,7 +57374,6 @@ zơ rá
 độ ví
 độ võng
 độ vĩ
-độ vĩ<sup>o
 độ xe
 độ đường
 độ đậm
@@ -57796,8 +57608,6 @@ zơ rá
 đợi thời
 đợi trông
 đợt dịch
-đụ má
-đụ mẹ
 đục gỗ
 đục hom
 đục khoét
@@ -57914,6 +57724,7 @@ zơ rá
 ơi ới
 ơn huệ
 ơn nghĩa
+ơn phước
 ơn đức
 ơn ớn
 ư hừ
