@@ -3956,7 +3956,6 @@ bệnh nhi
 bệnh nhân
 bệnh nền
 bệnh phẩm
-bệnh polip
 bệnh sĩ
 bệnh sốt
 bệnh sởi
@@ -6931,7 +6930,6 @@ chơi chữ
 chơi cờ
 chơi game
 chơi gái
-chơi gôn
 chơi hoa
 chơi hoang
 chơi họ
@@ -11533,7 +11531,6 @@ cổng chống
 cổng chợ
 cổng cái
 cổng hậu
-cổng môđem
 cổng ngõ
 cổng rả
 cổng sạc
@@ -12342,7 +12339,6 @@ di địch
 di độc
 di động
 di ảnh
-dimsum hủ
 dinh cơ
 dinh dính
 dinh dưỡng
@@ -15446,7 +15442,6 @@ gra phít
 gra tuýt
 gu giông
 gu sì
-gu đrông
 guốc chẳn
 guốc chẵn
 guốc kinh
@@ -15454,7 +15449,6 @@ guốc lẻ
 guốc võng
 guốc điếu
 guồng máy
-gym yoga
 gà bới
 gà chiên
 gà chọi
@@ -15723,7 +15717,6 @@ gô ri
 gô tích
 gô đê
 gôm lác
-gôn nơ
 gông cùm
 gông cụt
 gông ván
@@ -16332,7 +16325,6 @@ him him
 him híp
 hinh hích
 hinh hỉnh
-hip hop
 hiu hiu
 hiu hắt
 hiu quạnh
@@ -17234,8 +17226,6 @@ hy di
 hy hữu
 hy sinh
 hy vọng
-hy đrô
-hyđro axit
 hà bao
 hà bá
 hà châu
@@ -18585,12 +18575,10 @@ hậu đại
 hậu đậu
 hậu địch
 hậu đội
-hắc buá
 hắc búa
 hắc bạch
 hắc cá
 hắc lào
-hắc lŏàn
 hắc nô
 hắc tố
 hắc vận
@@ -18682,7 +18670,7 @@ hết trơn
 hết trọi
 hết trụi
 hết veo
-hết viá
+hết vía
 hết vía
 hết xẩy
 hết ý
@@ -18816,7 +18804,6 @@ học vẽ
 học vị
 học vụ
 học xá
-học yoga
 học ôn
 học điền
 học đòi
@@ -19507,7 +19494,6 @@ kem quế
 kem sữa
 kem tươi
 kem van
-kem vani
 ken dày
 ken két
 ken vin
@@ -21505,7 +21491,6 @@ kín nhiệm
 kín nhẽ
 kín tiếng
 kín đáo
-kính bari
 kính báo
 kính bẩm
 kính chuộng
@@ -21904,7 +21889,6 @@ la lết
 la lối
 la mát
 la mắng
-la nina
 la oang
 la phông
 la quả
@@ -22305,7 +22289,6 @@ lo âu
 loa kèn
 loa kéo
 loa loá
-loa mini
 loa ngoài
 loa phóng
 loa thùng
@@ -22604,7 +22587,6 @@ ly ly
 ly thân
 ly tán
 ly tâm
-lymphô bào
 là ai
 là cùng
 là gì
@@ -25311,7 +25293,6 @@ minh đạo
 minh định
 minh đức
 minh ước
-mixi gaming
 miên hành
 miên man
 miêu tả
@@ -27506,16 +27487,13 @@ nanh nọc
 nanh sấu
 nanh vuốt
 nanh ác
-nanô mét
 nao lòng
 nao nao
 nao núng
 nao nức
-nap pồ
 nay kính
 nay mai
 nay thư
-ne ma
 ne nét
 nem bì
 nem chua
@@ -28078,7 +28056,6 @@ ngoại thận
 ngoại thị
 ngoại tiếp
 ngoại tiết
-ngoại toxic
 ngoại trú
 ngoại trưởng
 ngoại trừ
@@ -29279,7 +29256,6 @@ nhanh nhảu
 nhanh nhẩu
 nhanh nhẹ
 nhanh nhẹn
-nhanh ship
 nhanh tay
 nhanh trí
 nhao nhao
@@ -30085,7 +30061,6 @@ nhạc công
 nhạc cảnh
 nhạc cụ
 nhạc dân
-nhạc edm
 nhạc gia
 nhạc hiệu
 nhạc hài
@@ -30732,7 +30707,6 @@ ni trat
 ni trưởng
 ni tơ
 ni vô
-nick ảo
 ninh an
 ninh bình
 ninh cơ
@@ -30749,7 +30723,7 @@ ninh kháng
 ninh lai
 ninh loan
 ninh lộc
-ninh mạng
+
 ninh mỹ
 ninh nhất
 ninh ních
@@ -35484,8 +35458,6 @@ ranh khôn
 ranh ma
 ranh mãnh
 ranh vặt
-rank leo
-rank tích
 rao cháo
 rao giảng
 rao hàng
@@ -35995,7 +35967,6 @@ rơle bước
 rơle chốt
 rơle cần
 rơle cực
-rơle dip
 rơle dòng
 rơle hơi
 rơle khí
@@ -38816,8 +38787,6 @@ tao phùng
 tao tác
 tao đàn
 tao động
-taxi nhanh
-taxi điện
 tay ba
 tay bo
 tay chân
@@ -47673,7 +47642,6 @@ tập công
 tập cận
 tập duyệt
 tập dượt
-tập gym
 tập huấn
 tập hậu
 tập họp
@@ -50778,7 +50746,6 @@ vỏ bọc
 vỏ chai
 vỏ chuối
 vỏ chăn
-vỏ dip
 vỏ dà
 vỏ gươm
 vỏ lải
@@ -51093,7 +51060,6 @@ xe ri
 xe rác
 xe số
 xe tang
-xe taxi
 xe tay
 xe thư
 xe thồ
@@ -52343,7 +52309,6 @@ yang mao
 yang nam
 yang tao
 yang trung
-yo ga
 yêm bác
 yên bài
 yên bái
@@ -57347,7 +57312,6 @@ zơ rá
 độ lượng
 độ lệch
 độ lớn
-độ mixi
 độ mol
 độ mặn
 độ nhạy
